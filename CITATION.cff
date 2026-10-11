@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "β-Sn Orientation Calculator"
+type: software
+authors:
+  - family-names: Tatsumi
+    given-names: Hiroaki
+    affiliation: The University of Osaka
+version: 1.0.0
+license: MIT
+abstract: >-
+  Browser-based calculator of the thermoelastic response of a β-Sn grain
+  under in-plane constraint. From Bunge Euler angles it gives the position on
+  the ND inverse pole figure, the maximum relative resolved shear stress
+  coefficient, the active slip system, the stress tensor and the elastic
+  strain energy density per kelvin.
+keywords:
+  - beta-tin
+  - solder
+  - crystal orientation
+  - thermal expansion anisotropy
+  - slip system
+  - inverse pole figure
+references:
+  - type: article
+    authors:
+      - family-names: Xian
+        given-names: J. W.
+    title: "The role of microstructure in the thermal fatigue of solder joints"
+    journal: Nature Communications
+    volume: 15
+    year: 2024
+    doi: 10.1038/s41467-024-48532-6
